@@ -1,4 +1,4 @@
-KNZ Hotel Booking App
+KNZ Hotel Booking App (Group Project)
 
 --Important--
 Once the folder is unzip launch this folder on the IDE
